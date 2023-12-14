@@ -19,7 +19,7 @@ const NewsReaderApp = () => {
                {
                   params: {
                      country: "us",
-                     apiKey: "b73a4122780749debeb275d4a232153b",
+                     apiKey: "YOUR_API_KEY",
                   },
                }
             );
